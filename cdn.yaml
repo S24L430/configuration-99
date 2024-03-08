@@ -4,7 +4,7 @@ metadata:
   envTypes: ["dev"]
 data:
   trafficFilters:
-    rules:
+    rules: []
       # - name: block-xss
       #   when:
       #     reqProperty: tier
